@@ -1,0 +1,27 @@
+{
+  "pics": [
+    {
+      "file": "bg_home.png",
+      "type": "background",
+      "required": true
+    },
+    {
+      "file": "btn_primary.png",
+      "type": "button",
+      "required": true
+    },
+    {
+      "file": "char_run_01.png",
+      "type": "frame",
+      "required": false
+    }
+  ],
+  "game_description": {
+    "title": "Swap!",
+    "genre": "casual lane-switch",
+    "platform": "wechat mini-game",
+    "orientation": "landscape",
+    "gameplay": "tap to switch lanes and avoid obstacles",
+    "core_interaction": "tap to switch"
+  }
+}

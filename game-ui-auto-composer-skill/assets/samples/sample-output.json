@@ -1,0 +1,39 @@
+{
+  "page_list": [
+    "home",
+    "gameplay-hud",
+    "result"
+  ],
+  "asset_mapping": [
+    {
+      "asset": "bg_home.png",
+      "role": "background",
+      "pages": [
+        "home"
+      ],
+      "confidence": "high"
+    },
+    {
+      "asset": "btn_primary.png",
+      "role": "button base",
+      "pages": [
+        "home",
+        "result"
+      ],
+      "confidence": "high"
+    },
+    {
+      "asset": "char_run_01.png",
+      "role": "character frame",
+      "pages": [
+        "home",
+        "gameplay-hud"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "notes": [
+    "center gameplay lanes protected",
+    "output favors engine-neutral spec"
+  ]
+}
