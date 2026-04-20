@@ -123,17 +123,17 @@ npx skills add Flycan-Fanc/game-ui-auto-composer-skill
 
 ```text
 game-ui-auto-composer-skill/
+├── .git/
+├── assets/
+├── references/
+├── scripts/
+├── LICENSE
 ├── README.md
 ├── README_EN.md
+├── README_ES.md
 ├── README_JA.md
 ├── README_KO.md
-├── README_ES.md
-├── LICENSE
-└── game-ui-auto-composer-skill/
-    ├── SKILL.md
-    ├── references/
-    ├── scripts/
-    └── assets/
+└── SKILL.md
 ```
 
 ---
